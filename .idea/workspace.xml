@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60e96d40-236a-4ced-8117-38a62fbbe43f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cubepay-ruby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cubepay.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/_config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/do_payment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/do_payment_by_coin_id.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/get_coin_list.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/get_fiat_list.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/query_payment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cubepay.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cubepay/client.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cubepay/http_request.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cubepay/signature.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cubepay/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/cubepay/ruby_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +58,7 @@
           <entry key="cubepay" value="4" />
           <entry key="gemspec" value="32" />
           <entry key="get_coin" value="6" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="8" />
           <entry key="md" value="7" />
           <entry key="rb" value="1222" />
           <entry key="test" value="30" />
@@ -95,7 +67,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="7" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="14" />
           <entry key="Ruby" value="1288" />
         </counts>
       </usages-collector>
@@ -135,7 +107,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -396,12 +372,12 @@
       <updated>1538453126933</updated>
       <workItem from="1538453129506" duration="15099000" />
       <workItem from="1538567474318" duration="197000" />
-      <workItem from="1538567674115" duration="2299000" />
+      <workItem from="1538567674115" duration="2382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17595000" />
+    <option name="totallyTimeSpent" value="17678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="1544" height="952" extended-state="0" />
@@ -623,7 +599,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
